@@ -5,5 +5,6 @@ module.exports.feedController = async (req,res)=>{
 
     res.send(posts)
     
+    
 }
 
